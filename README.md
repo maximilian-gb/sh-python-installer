@@ -14,7 +14,7 @@ Updating Python on systems like Raspberry Pi and Ubuntu can often be a complex a
 Run the installer with the command:
 
 ```bash
-wget -qO - https://raw.githubusercontent.com/tvdsluijs/sh-python-installer/main/python.sh | sudo bash -s [python_version]
+wget -qO - https://raw.githubusercontent.com/maximilian-gb/sh-python-installer/refs/heads/main/python.sh | sudo bash -s [python_version]
 ```
 
 Replace `[python_version]` with your desired version, for example (left some code out for readability):
